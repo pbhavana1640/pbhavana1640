@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Bhav (pbhavana1640)
 
-<!--
-**pbhavana1640/pbhavana1640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics + Engineering undergrad at WCUPA  
+🧠 Building machine learning tools focused on energy systems, materials science, and smart infrastructure  
+⚡ Currently working on:  
+- 🔌 EV Charger Location Recommender *(Python, SQL, ML, Geospatial Data)*  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python, Pandas, Scikit-learn, SQL, Streamlit  
+- Data Cleaning, Predictive Modeling, Scientific Research  
+- Tools: Raspberry Pi, MATLAB, Jupyter, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let’s Connect
+- 📫 [Email me](mailto:pallabhavana00@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhavanapalla)
