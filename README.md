@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Bhav (pbhavana1640)
+# 👋 Hi, I’m Bhav
 
-🎓 Physics + Engineering undergrad at WCUPA  
+🎓 Physics + Engineering (undergrad at WCUPA)  
 🧠 Building machine learning tools focused on energy systems, materials science, and smart infrastructure  
 ⚡ Currently working on:  
 - 🔌 EV Charger Location Recommender *(Python, SQL, ML, Geospatial Data)*  
